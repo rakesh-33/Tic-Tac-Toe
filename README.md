@@ -1,2 +1,2 @@
 Tic Tac Toe game 
-Made by: Rakesh Bhattarai
+</br>Made by: Rakesh Bhattarai
